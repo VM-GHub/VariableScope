@@ -1,7 +1,7 @@
 #include <iostream>
 
 int global_var1{23}; // global variable
-int global_var2{25};
+int global_var2{25}; //add a comment here
 
 
 void some_function(){
