@@ -1,0 +1,17 @@
+Startup commands:
+After installed Git and Visual Studio Code,
+In VS Code, click View -> New Terminal -> Powershell
+                                            type "git --version" enter //check Git version
+                                            type "where.exe git" enter //check Git path
+Optional: git config --global user.name "Name" enter
+          git config --global user.email "x@email.com" enter
+Update Git : git update 
+
+Basic terminologies and definitions:
+Setup a Git Repository (Initialize)
+Tracking and Discarding Changes (Add)
+Saving Changes (Commit)
+Publish to GitHub 
+Make Changes to Remote GitHub File (Commit & Push)
+Sync Changes from GitHub to Local File (Pull)
+Staging, i.e., Choosing Changes to Commit (Stage)
