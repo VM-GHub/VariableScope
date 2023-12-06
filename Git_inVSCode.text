@@ -15,3 +15,4 @@ Basic terminologies and definitions:
 -Make Changes to Remote GitHub File (Commit & Push)
 -Sync Changes from GitHub to Local File (Pull)
 -Staging, i.e., Choosing Changes to Commit (Stage)
+-Branch
