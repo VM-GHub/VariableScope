@@ -1,2 +1,2 @@
-Git is a version control system
-GitHub is a hub or space to store repositories (projects)
+Git is a version control system that tracks the changes in code.
+GitHub is a hub or space to store Git repositories (projects).
