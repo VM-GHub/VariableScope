@@ -15,4 +15,9 @@ Basic terminologies and definitions:
 -Make Changes to Remote GitHub File (Commit & Push)
 -Sync Changes from GitHub to Local File (Pull)
 -Staging, i.e., Choosing Changes to Commit (Stage)
--Branch
+-Branch:
+When project is big, you don't want to push changes to main (or master) branch directly.
+Your master branch normally is for customer to see and you don't want people to see lots of changes.
+And you don't want to push a mistake to the master branch.
+That's when branch come in, it holds the changes of code until you are sure there's no mistakes and then
+you can merge those changes to the master branch by creating a pull request.
