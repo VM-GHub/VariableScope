@@ -21,3 +21,4 @@ Your master branch normally is for customer to see and you don't want people to 
 And you don't want to push a mistake to the master branch.
 That's when branch come in, it holds the changes of code until you are sure there's no mistakes and then
 you can merge those changes to the master branch by creating a pull request.
+-
